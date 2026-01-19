@@ -1,0 +1,11 @@
+[project]
+name = "p4rest-sandbox"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "requests>=2.32.5",
+    "streamlit>=1.53.0",
+    "streamlit-local-storage>=0.0.25",
+]
